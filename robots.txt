@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bbkjuewxsr.github.io/sitemap.xml
